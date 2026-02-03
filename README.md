@@ -3,6 +3,8 @@
 💻 Web Developer | React • Laravel • Node.js  
 🌱 Self-taught & project-driven learner  
 
+## 🚀 About Me
+I'm a passionate web developer who enjoys building **real-world applications** to solve practical problems, with a strong focus on **clean, modern UI/UX**, **best practices**, and **performance optimization** to deliver smooth user experiences.
 ---
 
 ## 🚀 What I'm Working On
