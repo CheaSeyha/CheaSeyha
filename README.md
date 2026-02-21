@@ -36,26 +36,29 @@ These projects are designed with:
 ## 🛠️ Tech Stack
 
 ### Frontend
-- React.js
+- Next JS
+- React JS
+- TypeScript
 - JavaScript
 - Tailwind CSS
 - Bootstrap
-- shadcn/ui
 
 ### Backend
+- PHP
 - Laravel
 - Node.js
 - Express.js
 
 ### Database
 - MySQL
-- SQL Server
 
 ### DevOps & Tools
 - Git & GitHub
 - Linux (Ubuntu Server)
 - Nginx
 - REST API Development
+- Render
+- Vercel
 
 ---
 
